@@ -1,0 +1,9 @@
+.student {
+    border: 2px solid red;
+    margin-bottom: 10px;
+    display: flex;
+    width: 50%;
+    border-radius: 20px;
+    
+    flex-direction: column;
+}

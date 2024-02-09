@@ -1,0 +1,11 @@
+.studentdata{
+    display: flex;
+    gap: 20px;
+    background-color: green;
+    margin-bottom:20px ;
+    color: white;
+    border-radius: 10px;
+    align-items: center;
+    justify-content: center;
+    /* flex-direction: column; */
+}
